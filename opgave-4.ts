@@ -25,3 +25,13 @@ if (input1 !== null && input2 !== null) {
 } else {
   alert("Du skal indtaste begge tal!");
 }
+
+// prompt() spørger brugeren om to tal.
+
+// Input konverteres fra string til number med parseFloat.
+
+// Funktion lægSammen lægger tallene sammen.
+
+// Resultatet skrives til et HTML-element med id="resultat".
+
+// Alle variabler har passende TypeScript-typer: string | null, number, HTMLElement | null.

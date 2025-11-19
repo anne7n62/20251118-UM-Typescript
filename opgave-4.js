@@ -3,6 +3,7 @@
 function lægSammen(n1, n2) {
   return n1 + n2;
 }
+
 // Hent input fra brugeren via prompt
 const input1 = prompt("Indtast det første tal:");
 const input2 = prompt("Indtast det andet tal:");
